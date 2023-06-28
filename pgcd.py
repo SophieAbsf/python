@@ -11,6 +11,8 @@ def pgcd(a,b):
         b=r
         r=a%b
     return b
+    
+//Juste un code pour tester la fonction.
 
 a=int(input("Entrez le premier nombre.\n"))
 b=int(input("Entrez le deuxième nombre.\n"))
